@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511d1c64-e51f-405e-87fc-6e55ed476619" name="Changes" comment="" />
+    <list default="true" id="511d1c64-e51f-405e-87fc-6e55ed476619" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoT - Final Project.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/BUTTON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/DHT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/RELAY.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/cubes_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/mqtt_init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smart_Water_Filter_Alert/runme.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart water filter alart.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$smart water filter alart.pptx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JN6SqRBN3S5ig0DIqZDEGJWUD0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +45,29 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shake/Desktop/Final Project&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.BUTTON">
+  <component name="RunManager" selected="Python.RELAY (1)">
+    <configuration name="BUTTON (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_AC_filter_alret" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_AC_filter_alret/BUTTON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BUTTON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Final Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DHT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DHT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Final Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_AC_filter_alret" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_Water_Filter_Alert/DHT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_AC_filter_alret/DHT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RELAY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RELAY (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Final Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,34 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_AC_filter_alret" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_Water_Filter_Alert/RELAY.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cubes_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Final Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_Water_Filter_Alert/cubes_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smart_AC_filter_alret/RELAY.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RELAY (1)" />
+        <item itemvalue="Python.DHT (1)" />
+        <item itemvalue="Python.BUTTON (1)" />
         <item itemvalue="Python.BUTTON" />
         <item itemvalue="Python.manager" />
-        <item itemvalue="Python.RELAY" />
-        <item itemvalue="Python.DHT" />
-        <item itemvalue="Python.cubes_test" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +190,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -182,7 +215,9 @@
     <SUITE FILE_PATH="coverage/Final_Project$BUTTON.coverage" NAME="BUTTON Coverage Results" MODIFIED="1687110040630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
     <SUITE FILE_PATH="coverage/Final_Project$RELAY.coverage" NAME="RELAY Coverage Results" MODIFIED="1687110026928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
     <SUITE FILE_PATH="coverage/Final_Project$DHT.coverage" NAME="DHT Coverage Results" MODIFIED="1687110021200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
-    <SUITE FILE_PATH="coverage/Final_Project$DHT__1_.coverage" NAME="DHT (1) Coverage Results" MODIFIED="1687003841237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
+    <SUITE FILE_PATH="coverage/Final_Project$DHT__1_.coverage" NAME="DHT (1) Coverage Results" MODIFIED="1687112590321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_AC_filter_alret" />
     <SUITE FILE_PATH="coverage/Final_Project$mqtt_init.coverage" NAME="mqtt_init Coverage Results" MODIFIED="1687003905273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_Water_Filter_Alert" />
+    <SUITE FILE_PATH="coverage/Final_Project$BUTTON__1_.coverage" NAME="BUTTON (1) Coverage Results" MODIFIED="1687112585853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_AC_filter_alret" />
+    <SUITE FILE_PATH="coverage/Final_Project$RELAY__1_.coverage" NAME="RELAY (1) Coverage Results" MODIFIED="1687112593713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_AC_filter_alret" />
   </component>
 </project>
